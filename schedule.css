@@ -1,0 +1,20 @@
+
+.schedule_date_title{
+	color: white;
+}
+
+.schedule_item{
+	padding: 10px 10px;
+	border-radius: 3px;
+	border: solid white 3px;
+	color:white;
+}
+
+.scheduleContentRow{
+	margin-bottom: 40px;
+	margin-top: 10px;
+}
+
+.inside{
+	float:left;
+}
